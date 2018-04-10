@@ -1,0 +1,10 @@
+D:\Programms\TV\Lab_2_TV\Lab_2_TV\bin\Debug\Lab_2_TV.exe.config
+D:\Programms\TV\Lab_2_TV\Lab_2_TV\bin\Debug\Lab_2_TV.exe
+D:\Programms\TV\Lab_2_TV\Lab_2_TV\bin\Debug\Lab_2_TV.pdb
+D:\Programms\TV\Lab_2_TV\Lab_2_TV\obj\Debug\Lab_2_TV.csprojResolveAssemblyReference.cache
+D:\Programms\TV\Lab_2_TV\Lab_2_TV\obj\Debug\Lab_2_TV.Form1.resources
+D:\Programms\TV\Lab_2_TV\Lab_2_TV\obj\Debug\Lab_2_TV.Properties.Resources.resources
+D:\Programms\TV\Lab_2_TV\Lab_2_TV\obj\Debug\Lab_2_TV.csproj.GenerateResource.Cache
+D:\Programms\TV\Lab_2_TV\Lab_2_TV\obj\Debug\Lab_2_TV.csproj.CoreCompileInputs.cache
+D:\Programms\TV\Lab_2_TV\Lab_2_TV\obj\Debug\Lab_2_TV.exe
+D:\Programms\TV\Lab_2_TV\Lab_2_TV\obj\Debug\Lab_2_TV.pdb
